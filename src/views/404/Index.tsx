@@ -4,13 +4,8 @@ import Children from "../../components/children";
 function Index(props: any) {
   return (
     <div className={"app"}>
-      <div
-        className={"s"}
-        onClick={() => {
-          props.history.push("/page1/1");
-        }}
-      >
-        123
+      <div className={"s"} onClick={() => {}}>
+        404
       </div>
 
       <Children />

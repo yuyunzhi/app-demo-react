@@ -1,0 +1,9 @@
+.title {
+  color: blue;
+  transform: rotate(-10deg);
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}

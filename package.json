@@ -52,7 +52,6 @@
     "prettier": "2.5.0"
   },
   "lint-staged": {
-    "*.{ts,tsx}": "prettier --write",
-    "*.{js,css,md}": "prettier --write"
+    "*.{js,jsx,css,ts,tsx}": "prettier --write"
   }
 }
